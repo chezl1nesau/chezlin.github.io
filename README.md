@@ -1,6 +1,4 @@
 # chezlin.github.io
-This repository hosts my personal portfolio website, which showcases my projects, skills, and experience.
-
 Mini Bio / Positioning Statement
 
 I’m an aspiring data scientist with a strong interest in stock analytics. I’m fascinated by how data can uncover trends in markets and help make informed investment decisions. I’m excited to combine analytical skills and AI tools to turn complex financial and social media data into actionable insights.
