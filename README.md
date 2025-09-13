@@ -1,24 +1,28 @@
 # chezlin.github.io
-Mini Bio / Positioning Statement
+Mini Bio / Positioning Statement:
 
-I’m an aspiring data scientist with a strong interest in stock analytics. I’m fascinated by how data can uncover trends in markets and help make informed investment decisions. I’m excited to combine analytical skills and AI tools to turn complex financial and social media data into actionable insights.
+As an aspiring data scientist, I'm driven by the power of data to reveal insights in financial markets. My passion lies in stock analytics, where I apply analytical skills and AI to transform complex financial and social media data into actionable investment strategies. I am focused on leveraging these tools to uncover market trends and support informed decision-making.
 
-Target Role
+Target Role:
 
-Role: Data Scientist (Stock Analytics / Financial Data)
-I’m aiming for this role because it aligns with my interest in using data to identify market trends and support investment strategies. This is the perfect time to develop my skills in data analysis, modeling, and AI-driven insights, building on the foundation from my current data science course.
+I'm seeking a Data Scientist role with a focus on stock analytics and financial data. This position is the ideal next step to apply and expand my skills in data analysis, predictive modeling, and AI-driven insights, directly aligning with my academic foundation and professional interests.
 
-Seed Project Ideas
+Seed Project Ideas:
 
-Build a system that monitors trending topics on TikTok, Instagram, and Twitter, analyzes patterns, and generates insights or reports that could inform stock or investment strategies.
+Social Media & Stock Trend Analysis: Develop a system to monitor and analyze trending topics on social platforms (TikTok, Instagram, Twitter), connecting social sentiment patterns to potential stock movements.
 
-Analyze historical stock market data combined with social media sentiment to predict short-term price movements or trends.
+Predictive Stock Modeling: Integrate historical stock data with social media sentiment to build predictive models for short-term price movements and market trends.
 
-Skills to Grow
+Skills to Grow:
 
-Technical Skill: Social media and financial data analysis using Python and statistical modeling, to uncover patterns and generate actionable insights.
-Soft Skill: Communication, to clearly present complex findings to non-technical stakeholders or potential investors.
+Technical: Deepen expertise in Python for financial and social media data analysis, focusing on statistical modeling and machine learning to generate actionable insights.
 
-Goals
-30-Day Goal: Complete a mini-project analyzing a small stock dataset and visualize trends using Python.
-6-Month Goal: Publish a data-driven stock analytics project on GitHub, incorporating social media trend analysis and written insights.
+Soft: Enhance communication skills to effectively translate and present complex technical findings to non-technical stakeholders and potential investors.
+
+Goals:
+
+30-Day Goal: Complete a mini-project analyzing a small stock dataset and use Python to visualize key trends.
+
+6-Month Goal: Publish a robust, data-driven stock analytics project on GitHub that includes social media trend analysis and well-documented insights.
+
+
