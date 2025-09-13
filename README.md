@@ -20,6 +20,5 @@ Technical Skill: Social media and financial data analysis using Python and stati
 Soft Skill: Communication, to clearly present complex findings to non-technical stakeholders or potential investors.
 
 Goals
-
 30-Day Goal: Complete a mini-project analyzing a small stock dataset and visualize trends using Python.
 6-Month Goal: Publish a data-driven stock analytics project on GitHub, incorporating social media trend analysis and written insights.
